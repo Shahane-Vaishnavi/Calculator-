@@ -8,10 +8,6 @@ It supports basic arithmetic operations with a smooth UI inspired by modern desi
 ## 📸 Preview
 
 ![Calculator Screenshot](./screenshot.png)
-
-> Replace `screenshot.png` with your actual image name (example: `calculator.png`).  
-> Make sure the image is placed in the same folder as `README.md`.
-
 ---
 
 ## 🚀 Features
